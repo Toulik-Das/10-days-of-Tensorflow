@@ -53,4 +53,4 @@ Extras:
   * <a href='g3doc/running_on_mobile_tensorflowlite.md'>
       Running object detection on mobile devices with TensorFlow Lite</a><br>
 
-# Day 2 
+# Day 2:
